@@ -1,0 +1,15 @@
+p.justificado{
+    text-align: justify;
+}
+
+p.centrado {
+    text-align: center;
+}
+p.sangria{
+    margin-left: 25px;
+    text-indent: -25px;
+   }
+h1{
+    text-align: center;
+    color: blue;
+}
